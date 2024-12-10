@@ -10,7 +10,9 @@ Welcome to the Github of [study assocation GEWIS](https://gewis.nl), here we hos
 
 
 ## 🖥️Computer Beheer Commissie (CBC) 
-
+* **Automation scripts:** Various powershell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
+- **Custommailcow LDAP:** Custom sync script to sync permissions from LDAP to Mailcow<br>`let repositories: URL[] = [`[`custommailcow-ldap`](https://github.com/GEWIS/custommailcow-ldap)`];`
+* **GEWIS Unlock:** Allow admins to unlock signed-in Windows PCs<br>`url repositories[1] = {`[`GEWISUnlock`](https://github.com/GEWIS/GEWISUnlock)`};`
 
 ## 📖Supremum 
-
+* **Supremum web:** Website for Supremum committee<br>`repositories = [`[`supremumweb`](https://github.com/GEWIS/supremumweb)`]`
