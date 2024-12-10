@@ -1,5 +1,5 @@
 # Study Association GEWIS❗
-Welcome to the Github of [study assocation GEWIS](https://gewis.nl), here we host the projects of various committees from GEWIS. This Github is managed by the [ABC](mailto:abc@gewis.nl). Below you can find some of the project that we host:
+Welcome to the GitHub of [study assocation GEWIS](https://gewis.nl), here we host the projects of various committees from GEWIS. This GitHub is managed by the [ABC](mailto:abc@gewis.nl). As mathematics & computer science students we build a lot of the software needed in the associations, this ranges from sophisticated projects to hacky scripts. Below you can find some highlights of the project that we build:
 
 ## 🚀Applicatie Beheer Commissie (ABC)
 * **GEWIS Website:** Main website including activities, education, photos and more<br>`public array $repositories = [`[`gewisweb`](https://github.com/GEWIS/gewisweb)`];`
