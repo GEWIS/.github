@@ -1,5 +1,5 @@
 # Study Association GEWIS❗
-Welcome to the GitHub of [study assocation GEWIS](https://gewis.nl), here we host the projects of various committees from GEWIS. This GitHub is managed by the [ABC](mailto:abc@gewis.nl). As mathematics & computer science students we build a lot of the software needed in the associations, this ranges from sophisticated projects to hacky scripts. Below you can find some highlights of the project that we build:
+Welcome to the GitHub of [study association GEWIS](https://gewis.nl); here, we host the projects of various committees from GEWIS. This GitHub is managed by the [ABC](mailto:abc@gewis.nl). As mathematics & computer science students, we build a lot of the software needed in the association; this ranges from sophisticated projects to hacky scripts. Below, you can find some highlights of the projects that we build:
 
 ## 🚀Applicatie Beheer Commissie (ABC)
 * **GEWIS Website:** Main website including activities, education, photos and more<br>`public array $repositories = [`[`gewisweb`](https://github.com/GEWIS/gewisweb)`];`
@@ -10,7 +10,7 @@ Welcome to the GitHub of [study assocation GEWIS](https://gewis.nl), here we hos
 
 
 ## 🖥️Computer Beheer Commissie (CBC) 
-* **Automation scripts:** Various powershell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
+* **Automation scripts:** Various PowerShell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
 - **Custommailcow LDAP:** Custom sync script to sync permissions from LDAP to Mailcow<br>`let repositories: URL[] = [`[`custommailcow-ldap`](https://github.com/GEWIS/custommailcow-ldap)`];`
 * **GEWIS Unlock:** Allow admins to unlock signed-in Windows PCs<br>`url repositories[1] = {`[`GEWISUnlock`](https://github.com/GEWIS/GEWISUnlock)`};`
 
