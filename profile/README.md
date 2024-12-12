@@ -5,7 +5,7 @@ Welcome to the GitHub of [study association GEWIS](https://gewis.nl); here, we h
 * **GEWIS Website:** Main website including activities, education, photos and more<br>`public array $repositories = [`[`gewisweb`](https://github.com/GEWIS/gewisweb)`];`
 - **GEWIS Database:** Membership management system <br>`public array $repositories = [`[`gewisdb`](https://github.com/GEWIS/gewisdb)`];`
 * **SudoSOS:** Bar system <br>`let repositories: URL[] = [`[`sudosos-backend`](https://github.com/GEWIS/sudosos-backend)`, `[`sudosos-frontend`](https://github.com/GEWIS/sudosos-frontend)`,  `[`sudosos-client`](https://github.com/GEWIS/sudosos-client)`];`
-- **Parelpracht:** CRM system <br>`let repositories: URL[] = [`[`parelpracht-client`](https://github.com/GEWIS/parelpracht-client)`, `[`parelpracht-server`](https://github.com/GEWIS/parelpracht-server)`];`
+- **ParelPracht:** CRM system <br>`let repositories: URL[] = [`[`parelpracht-client`](https://github.com/GEWIS/parelpracht-client)`, `[`parelpracht-server`](https://github.com/GEWIS/parelpracht-server)`];`
 * **Aurora:** Screens, lights & audio narrowcasting <br>`let repositories: URL[] = [`[`aurora-core`](https://github.com/GEWIS/aurora-core)`, `[`aurora-client`](https://github.com/GEWIS/aurora-client)`, `[`aurora-backoffice`](https://github.com/GEWIS/aurora-backoffice)`, `[`aurora-lights-proxy`](https://github.com/GEWIS/aurora-lights-proxy)`, `[`aurora-audio-player`](https://github.com/GEWIS/aurora-audio-player)`];`
 
 
