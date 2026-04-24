@@ -10,9 +10,10 @@ Welcome to the GitHub of [study association GEWIS](https://gewis.nl); here, we h
 
 
 ## 🖥️Computer Beheer Commissie (CBC) 
-* **Automation scripts:** Various PowerShell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
-- **Custommailcow LDAP:** Custom sync script to sync permissions from LDAP to Mailcow<br>`let repositories: URL[] = [`[`custommailcow-ldap`](https://github.com/GEWIS/custommailcow-ldap)`];`
-* **GEWIS Unlock:** Allow admins to unlock signed-in Windows PCs<br>`url repositories[1] = {`[`GEWISUnlock`](https://github.com/GEWIS/GEWISUnlock)`};`
+* **Flux:** GitOps continuous delivery for our Kubernetes cluster<br>`repositories: [`[`k8s-infra`](https://github.com/GEWIS/k8s-infra)`,`[`k8s-apps`](https://github.com/GEWIS/k8s-apps)`]`
+- **Automation scripts:** Various PowerShell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
+* **Custommailcow LDAP:** Custom sync script to sync permissions from LDAP to Mailcow<br>`let repositories: URL[] = [`[`custommailcow-ldap`](https://github.com/GEWIS/custommailcow-ldap)`];`
+- **GEWIS Unlock:** Allow admins to unlock signed-in Windows PCs<br>`url repositories[1] = {`[`GEWISUnlock`](https://github.com/GEWIS/GEWISUnlock)`};`
 
 ## 📖Supremum 
 * **Supremum web:** Website for Supremum committee<br>`repositories = [`[`supremumweb`](https://github.com/GEWIS/supremumweb)`]`
