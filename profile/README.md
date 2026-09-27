@@ -2,8 +2,7 @@
 Welcome to the GitHub of [study association GEWIS](https://gewis.nl); here, we host the projects of various committees from GEWIS. This GitHub is managed by the [ABC](mailto:abc@gewis.nl). As mathematics & computer science students, we build a lot of the software needed in the association; this ranges from sophisticated projects to hacky scripts. Below, you can find some highlights of the projects that we build:
 
 ## 🚀Applicatie Beheer Commissie (ABC)
-* **GEWIS Website:** Main website including activities, education, photos and more<br>`public array $repositories = [`[`gewisweb`](https://github.com/GEWIS/gewisweb)`];`
-- **GEWIS Database:** Membership management system <br>`public array $repositories = [`[`gewisdb`](https://github.com/GEWIS/gewisdb)`];`
+* **Radix:** Main GEWIS website and membership management<br>`public array $repositories = [`[`radix`](https://github.com/GEWIS/radix)`];`
 * **SudoSOS:** Bar system <br>`let repositories: URL[] = [`[`sudosos`](https://github.com/GEWIS/sudosos)`];`
 - **ParelPracht:** CRM system <br>`let repositories: URL[] = [`[`parelpracht`](https://github.com/GEWIS/parelpracht)`];`
 * **Aurora:** Screens, lights & audio narrowcasting <br>`let repositories: URL[] = [`[`aurora`](https://github.com/GEWIS/aurora)`,`[`aurora-lights-proxy`](https://github.com/GEWIS/aurora-lights-proxy)`, `[`aurora-audio-player`](https://github.com/GEWIS/aurora-audio-player)`, `[`aurora-lights-simulator`](https://github.com/GEWIS/aurora-lights-simulator)`];`
