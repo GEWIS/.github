@@ -9,7 +9,7 @@ Welcome to the GitHub of [study association GEWIS](https://gewis.nl); here, we h
 
 
 ## 🖥️Computer Beheer Commissie (CBC) 
-* **Flux:** GitOps continuous delivery for our Kubernetes cluster<br>`repositories: [`[`k8s-infra`](https://github.com/GEWIS/k8s-infra)`,`[`k8s-apps`](https://github.com/GEWIS/k8s-apps)`]`
+* **Flux:** GitOps continuous delivery for our Kubernetes cluster<br>`repositories: [`[`infra`](https://github.com/GEWIS/infra)`,`[`k8s-apps`](https://github.com/GEWIS/k8s-apps)`]`
 - **Nix Infra:** NixOS configs for our digital infrastructure, such as service PCs and VMs: `repositories: [`[`infra`](https://github.com/GEWIS/infra)`]`
 * **Automation scripts:** Various PowerShell scripts that help our Windows Server infrastructure<br>`$repositories = @(`[`scripts-automation`](https://github.com/GEWIS/scripts-automation)`)`
 - **Custommailcow LDAP:** Custom sync script to sync permissions from LDAP to Mailcow<br>`let repositories: URL[] = [`[`custommailcow-ldap`](https://github.com/GEWIS/custommailcow-ldap)`];`
